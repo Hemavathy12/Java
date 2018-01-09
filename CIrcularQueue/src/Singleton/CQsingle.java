@@ -5,7 +5,6 @@
  */
 package Singleton;
 
-import static java.nio.file.Files.size;
 
 public class CQsingle {
 
